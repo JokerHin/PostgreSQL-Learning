@@ -1,1 +1,1 @@
-<h1>That's the way i learn PostgreSQL</h1>
+<h1>My Note to learn PostgreSQl using CLI</h1>
